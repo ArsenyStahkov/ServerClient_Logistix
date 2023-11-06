@@ -1,0 +1,15 @@
+D:\Programming\C#\Test_ClientServer\Test_Client\bin\Debug\net6.0\Test_Client.exe
+D:\Programming\C#\Test_ClientServer\Test_Client\bin\Debug\net6.0\Test_Client.deps.json
+D:\Programming\C#\Test_ClientServer\Test_Client\bin\Debug\net6.0\Test_Client.runtimeconfig.json
+D:\Programming\C#\Test_ClientServer\Test_Client\bin\Debug\net6.0\Test_Client.dll
+D:\Programming\C#\Test_ClientServer\Test_Client\bin\Debug\net6.0\Test_Client.pdb
+D:\Programming\C#\Test_ClientServer\Test_Client\obj\Debug\net6.0\Test_Client.csproj.AssemblyReference.cache
+D:\Programming\C#\Test_ClientServer\Test_Client\obj\Debug\net6.0\Test_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Test_ClientServer\Test_Client\obj\Debug\net6.0\Test_Client.AssemblyInfoInputs.cache
+D:\Programming\C#\Test_ClientServer\Test_Client\obj\Debug\net6.0\Test_Client.AssemblyInfo.cs
+D:\Programming\C#\Test_ClientServer\Test_Client\obj\Debug\net6.0\Test_Client.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Test_ClientServer\Test_Client\obj\Debug\net6.0\Test_Client.dll
+D:\Programming\C#\Test_ClientServer\Test_Client\obj\Debug\net6.0\refint\Test_Client.dll
+D:\Programming\C#\Test_ClientServer\Test_Client\obj\Debug\net6.0\Test_Client.pdb
+D:\Programming\C#\Test_ClientServer\Test_Client\obj\Debug\net6.0\Test_Client.genruntimeconfig.cache
+D:\Programming\C#\Test_ClientServer\Test_Client\obj\Debug\net6.0\ref\Test_Client.dll
